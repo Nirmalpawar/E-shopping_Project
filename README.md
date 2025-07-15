@@ -34,7 +34,7 @@ A modern, responsive, and dynamic E-Cart web application built with Django and p
 
 ---
 
-## 🗂️ 🏗️ Project Folder Structure
+## 🗂️  Project Folder Structure 🏗️
 
 ```bash
 Eshop-main/
